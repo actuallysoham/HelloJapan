@@ -10,7 +10,7 @@ Hover over the interactive map to get a tooltip with the prefecture and region. 
 
 ## Key Learnings
 
-* Got a change to revise basic CSS/ jQuery.
+* Got a chance to revise basic CSS/ jQuery.
 * SVG file formats and how to work with them.
 
 ## License
