@@ -1,5 +1,3 @@
-https://hello-japan.netlify.app/
-
 # An Interactive Dashboard
 
 This is an exceedingly simple and aggressively clean dashboard showing all prefectures with short descriptions and images of each, located on a map of Japan. It is hosted at https://hello-japan.netlify.app/ for demo. (Images may take some time to lead - it's a free server :P)
